@@ -1,0 +1,25 @@
+my-chatgpt-app/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   │   └── logo.svg
+│   ├── components/
+│   │   ├── ChatArea.jsx
+│   │   ├── InputArea.jsx
+│   │   ├── Message.jsx
+│   │   ├── Sidebar.jsx
+│   │   └── Header.jsx
+│   ├── pages/
+│   │   └── Home.jsx  // File baru, berisi semua tampilan halaman utama
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+│   └── utils/
+│       └── api.js
+├── .gitignore
+├── index.html
+├── package.json
+├── postcss.config.js
+├── tailwind.config.js
+└── vite.config.js

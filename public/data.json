@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "cover": "https://via.placeholder.com/200x300/007bff/FFFFFF?text=Naruto",
+    "author": "Masashi Kishimoto",
+    "description": "Kisah ninja muda dengan ambisi menjadi Hokage."
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "cover": "https://via.placeholder.com/200x300/28a745/FFFFFF?text=One+Piece",
+    "author": "Eiichiro Oda",
+    "description": "Petualangan bajak laut Monkey D. Luffy mencari harta karun One Piece."
+  },
+  {
+    "id": 3,
+    "title": "Bleach",
+    "cover": "https://via.placeholder.com/200x300/dc3545/FFFFFF?text=Bleach",
+    "author": "Tite Kubo",
+    "description": "Ichigo Kurosaki mendapatkan kekuatan Shinigami untuk melindungi manusia dan roh."
+  },
+  {
+    "id": 4,
+    "title": "Attack on Titan",
+    "cover": "https://via.placeholder.com/200x300/ffc107/000000?text=Attack+on+Titan",
+    "author": "Hajime Isayama",
+    "description": "Manusia berjuang melawan raksasa mengerikan yang dikenal sebagai Titan."
+  },
+  {
+    "id": 5,
+    "title": "Death Note",
+    "cover": "https://via.placeholder.com/200x300/17a2b8/FFFFFF?text=Death+Note",
+    "author": "Tsugumi Ohba",
+    "description": "Seorang siswa SMA menemukan buku catatan yang bisa membunuh siapapun yang namanya tertulis di dalamnya."
+  },
+  {
+    "id": 6,
+    "title": "My Hero Academia",
+    "cover": "https://via.placeholder.com/200x300/6c757d/FFFFFF?text=My+Hero+Academia",
+    "author": "Kohei Horikoshi",
+    "description": "Izuku Midoriya mendapatkan kekuatan untuk menjadi pahlawan super."
+  },
+    {
+        "id": 7,
+        "title": "Demon Slayer",
+        "cover": "https://via.placeholder.com/200x300/343a40/FFFFFF?text=Demon+Slayer",
+        "author": "Koyoharu Gotouge",
+        "description": "Tanjiro Kamado berusaha untuk menyembuhkan adiknya yang berubah menjadi iblis."
+    },
+    {
+      "id": 8,
+      "title": "Dragon Ball",
+      "cover": "https://via.placeholder.com/200x300/000000/FFFFFF?text=Dragon+Ball",
+       "author": "Akira Toriyama",
+       "description": "Petualangan Son Goku mencari Dragon Ball dan melindungi Bumi."
+    }
+]
